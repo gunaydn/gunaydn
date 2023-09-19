@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Cem Günaydın</h1>
 <h3 align="center">A ambitious backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Shopping List Application](https://github.com/gunaydn/ShoppingListApplication)
+- 🔭 My last project is [Shopping List Application](https://github.com/gunaydn/ShoppingListApplication)
 
 - 🌱 I’m currently learning **ASP.NET Core, RESTful API**
 
