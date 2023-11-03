@@ -3,7 +3,7 @@
 
 - 🔭 My last project is [Shopping List Application](https://github.com/gunaydn/ShoppingListApplication)
 
-- 🌱 I’m currently learning **ASP.NET Core, RESTful API**
+- 🌱 I’m currently learning **NodeJS, ExpressJS**
 
 - 📫 How to reach me **gunaydnk@gmail.com**
 
