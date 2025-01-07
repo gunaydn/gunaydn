@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Cem Günaydın</h1>
-<h3 align="center">An ambitious backend developer from Turkey</h3>
+<h3 align="center">An ambitious full-stack developer from Türkiye</h3>
 
-- 🔭 My last project is [Shopping List Application](https://github.com/gunaydn/ShoppingListApplication)
+- 🔭 My last project is [RaffleHub](https://github.com/gunaydn/RaffleHubIOSApp)
 
 - 📫 How to reach me **gunaydnk@gmail.com**
 
